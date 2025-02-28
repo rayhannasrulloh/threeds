@@ -1,12 +1,9 @@
-Threeds
+# Threeds
 
----
+## threeds.uno[threeds.uno]
 
-threeds.uno(threeds.uno)
+## Features:
 
-===
-
-Features:
 1. User Registration
 2. Post Threeds (Normal and Images)
 3. Repost and Quote Threeds
@@ -22,11 +19,7 @@ Features:
 13. Set Avatar, Cover Photo
 14. Change Password
 
----
+## Class : IT6
 
-Class : IT6
-
-Group Name
+## Group Name
 Rayhan, Azriel, Habil, Reza, Dwi
-
----
