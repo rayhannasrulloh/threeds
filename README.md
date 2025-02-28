@@ -1,6 +1,6 @@
 # Threeds
 
-[threeds.uno](threeds.uno)
+[threeds.uno](https://threeds.uno)
 
 ## Features:
 
@@ -21,5 +21,5 @@
 
 ## Class : IT6
 
-## Group Name
+**Group Name**
 Rayhan, Azriel, Habil, Reza, Dwi
