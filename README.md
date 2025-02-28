@@ -1,6 +1,6 @@
 # Threeds
 
-## threeds.uno[threeds.uno]
+[threeds.uno](threeds.uno)
 
 ## Features:
 
